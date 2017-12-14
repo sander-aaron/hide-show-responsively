@@ -64,7 +64,7 @@ img:nth-child(even) {
 
   img {
     width: 25%;
-    max-height: 144px;
+    max-height: 143px;
   }
 
   img:nth-child(1) {
