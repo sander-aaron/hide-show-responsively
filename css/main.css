@@ -62,4 +62,12 @@ img:nth-child(even) {
 
 @media only screen and (min-width: 60em) {
 
+  img {
+    width: 25%;
+  }
+
+  img:nth-child(1) {
+    display: inline;
+  }
+
 }
