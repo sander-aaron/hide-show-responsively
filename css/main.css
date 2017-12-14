@@ -62,6 +62,11 @@ img:nth-child(even) {
 
 @media only screen and (min-width: 60em) {
 
+  body {
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+
   img {
     width: 25%;
   }
